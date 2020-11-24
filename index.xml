@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paul bardea</title>
+    <link>/</link>
+    <description>Recent content on paul bardea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jul 2020 20:20:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Computers Talk</title>
+      <link>/drafts/networking/</link>
+      <pubDate>Sat, 25 Jul 2020 20:20:00 +0000</pubDate>
+      
+      <guid>/drafts/networking/</guid>
+      <description>Just like how I can send you a letter, computers can send eachother letters. The main difference is that they send them pretty quickly to eachother, and instead of having a mailman, they use other computers as the infrastructure to transport their letters. Each handing off the letter from one to the next.
+Let&amp;rsquo;s think about this. How would you send a letter if you had to hand-off the letter as though it were a relay race?</description>
+    </item>
+    
+    <item>
+      <title>Protocol Oriented Programming</title>
+      <link>/drafts/pop/</link>
+      <pubDate>Sat, 25 Jul 2020 20:20:00 +0000</pubDate>
+      
+      <guid>/drafts/pop/</guid>
+      <description>Introduction My first introduction to programming on larger code-bases was through several iOS internships. I was learning iOS programming at around the time Swift was becoming feasible for use. I&amp;rsquo;m not super familiar with the design of programming languages, but I remember the way the Swift used protocols blew me away. I&amp;rsquo;ve not yet found another languages that leverages protocols/interfaces/traits quite the same way. I wanted to understand why and to explore what exactly the difference is between these programming constructs in these different languages, and their implementation tradeoffs.</description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>/drafts/emacs/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/drafts/emacs/</guid>
+      <description> Let&amp;rsquo;s learn Emacs together! The Setup Workflows Go Development Blogging Resources  My dotfiles YouTube series introducing you to Doom  </description>
+    </item>
+    
+    <item>
+      <title>Color Laboratory</title>
+      <link>/drafts/lab/</link>
+      <pubDate>Fri, 10 Jul 2020 20:20:00 +0000</pubDate>
+      
+      <guid>/drafts/lab/</guid>
+      <description>Introduction This is the 3rd part of a 3 posts about color. You can find the previous 2 posts here and here.
+In the previous 2, I walked through some things I&amp;rsquo;ve learned about what color is and the systems we&amp;rsquo;ve developed to talk about it. I&amp;rsquo;m wrapping up this series talking about how I built the tool that I talked about in the last post, heavily inspired by this great blog post from Stripe.</description>
+    </item>
+    
+    <item>
+      <title>books/Atomic Habits</title>
+      <link>/drafts/atomic-habits/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/drafts/atomic-habits/</guid>
+      <description>My Thoughts Score: 3&amp;frasl;5
+This is solid summary of habit building. It&amp;rsquo;s also the first book (of many that I&amp;rsquo;ve seen) that I&amp;rsquo;ve actually picked up. If anything, you can&amp;rsquo;t say it wasn&amp;rsquo;t marketed well at the productivty audience. I found that it reaffirmed a lot of habit building advice I&amp;rsquo;ve been hearing for years. It really drills them down and approaches the same ideas in several ways making for a compelling case on how to improve your life.</description>
+    </item>
+    
+    <item>
+      <title>Making Dreamy Atlas</title>
+      <link>/drafts/making-dreamy-atlas/</link>
+      <pubDate>Sat, 06 Jun 2020 20:20:00 +0000</pubDate>
+      
+      <guid>/drafts/making-dreamy-atlas/</guid>
+      <description>So, I&amp;rsquo;ve had this idea for several years. The embers were set when working with an awesome group of my classmates for one of my courses. It was supposed to be a software architecture course. Whether the course accomplished teaching me anything about software architecture is objectional at best. The course was heavily project based. We needed to create an app that had an interesting architecture. My group ended up attempting to create a travel planning app.</description>
+    </item>
+    
+    <item>
+      <title>Golang IDE</title>
+      <link>/drafts/golang-ide/</link>
+      <pubDate>Sat, 06 Jun 2020 20:20:00 +0000</pubDate>
+      
+      <guid>/drafts/golang-ide/</guid>
+      <description>Goland Some content here.
+VSCode Some more here.
+Vim And another.</description>
+    </item>
+    
+    <item>
+      <title>Watches</title>
+      <link>/drafts/watches/</link>
+      <pubDate>Sat, 06 Jun 2020 20:20:00 +0000</pubDate>
+      
+      <guid>/drafts/watches/</guid>
+      <description> What makes it tick? </description>
+    </item>
+    
+    <item>
+      <title>Latte Art</title>
+      <link>/drafts/latte_art/</link>
+      <pubDate>Sat, 06 Jun 2020 20:20:00 +0000</pubDate>
+      
+      <guid>/drafts/latte_art/</guid>
+      <description> The Science The Art Progression </description>
+    </item>
+    
+    <item>
+      <title>Talking About Color</title>
+      <link>/drafts/color-spaces/</link>
+      <pubDate>Sat, 06 Jun 2020 20:20:00 +0000</pubDate>
+      
+      <guid>/drafts/color-spaces/</guid>
+      <description>Introduction Earlier this year, I read an interesting post on Stripe&amp;rsquo;s blog. In the post, the authors explain how they redesigned their color system with accessiblity in mind. In particular, their goal was to create a color system that met standards for contrast, but without sacrificing the vibrancy of the color scheme. To accomplish their goal, they built an internal tool to help them.
+The gifs from the post intrigued me.</description>
+    </item>
+    
+    <item>
+      <title>TODO</title>
+      <link>/posts/todo/</link>
+      <pubDate>Sat, 06 Jun 2020 20:20:00 +0000</pubDate>
+      
+      <guid>/posts/todo/</guid>
+      <description> Nothing here yet&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Keyboards</title>
+      <link>/drafts/keyboard-journey/my-keyboard-journey/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/drafts/keyboard-journey/my-keyboard-journey/</guid>
+      <description>After this, there is no turning back. You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland, and I show you how deep the rabbit hole goes.
+ Introduction My journey into the keyboarding world started with a brief glimpse into its culture about 2 years ago. One of my co-workers had a switch tester sitting on their desk.</description>
+    </item>
+    
+    <item>
+      <title>Photons to Color</title>
+      <link>/drafts/color/</link>
+      <pubDate>Fri, 05 Jun 2020 20:20:00 +0000</pubDate>
+      
+      <guid>/drafts/color/</guid>
+      <description>Light I&amp;rsquo;ve spent the last few weekends reading more and more about light and just went down the rabbit hole. I thought what I found was interesting, and wanted to summarize everything I learned in one place. I want to start writing more of these posts so that I don&amp;rsquo;t forget the things that I learn. If they happen to be of interest to other&amp;rsquo;s - than even better!</description>
+    </item>
+    
+    <item>
+      <title>From Scratch - Git</title>
+      <link>/drafts/git/</link>
+      <pubDate>Tue, 10 Mar 2020 13:20:00 +0000</pubDate>
+      
+      <guid>/drafts/git/</guid>
+      <description>Introduction 👋
+I spent many years using Git with a vague understanding of what it did under the hood. I knew it stored the versions of files and that the hash of the object was somehow relevantt here as well, but didn&amp;rsquo;t concretely know what was going on in the .git directory in my repos. So one weekend I decided to see if I could learn a bit more about it by creating a tool that would offer a small subset of the features that git provides.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Type Systems</title>
+      <link>/drafts/learning-pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/drafts/learning-pl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/drafts/git2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/drafts/git2/</guid>
+      <description>From The Ground Up: Git What is Git Git is a program that helps you keep track of different versions of your files. It is commonly used in programming projects to keep around every version of the code. This is useful if you want to slowly integrate changes to your code, ship different versions, and generally useful when collaborating on a codebase. In Git, you can add changes to a staging area, commit those changes to a version, checkout different versions of the code, and allows you to see the _diff_erence between two versions, allows you to name versions.</description>
+    </item>
+    
+  </channel>
+</rss>

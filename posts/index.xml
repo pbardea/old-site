@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on paul bardea</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on paul bardea</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 06 Jun 2020 20:20:00 +0000</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>TODO</title>
+            <link>/posts/todo/</link>
+            <pubDate>Sat, 06 Jun 2020 20:20:00 +0000</pubDate>
+            
+            <guid>/posts/todo/</guid>
+            <description> Nothing here yet&amp;hellip; </description>
+            <content type="html"><![CDATA[
+
+<h2 id="nothing-here-yet">Nothing here yet&hellip;</h2>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
